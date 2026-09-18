@@ -1,0 +1,200 @@
+[
+  {
+    "id": 1,
+    "name": "Espresso",
+    "category": "Hot Coffee",
+    "description": "Rich and concentrated coffee with a strong aroma and bold flavor.",
+    "price": 8,
+    "size": ["Single", "Double"],
+    "image": "https://images.unsplash.com/photo-1510707577719-ae7c14805e3a",
+    "available": true,
+    "rating": 4.7
+  },
+  {
+    "id": 2,
+    "name": "Americano",
+    "category": "Hot Coffee",
+    "description": "Smooth espresso combined with hot water for a clean and balanced taste.",
+    "price": 10,
+    "size": ["Small", "Medium", "Large"],
+    "image": "https://images.unsplash.com/photo-1551030173-122aabc4489c",
+    "available": true,
+    "rating": 4.6
+  },
+  {
+    "id": 3,
+    "name": "Cappuccino",
+    "category": "Hot Coffee",
+    "description": "Classic espresso topped with steamed milk and a layer of creamy foam.",
+    "price": 14,
+    "size": ["Small", "Medium", "Large"],
+    "image": "https://images.unsplash.com/photo-1534778101976-62847782c213",
+    "available": true,
+    "rating": 4.8
+  },
+  {
+    "id": 4,
+    "name": "Caffe Latte",
+    "category": "Hot Coffee",
+    "description": "Smooth espresso blended with steamed milk for a creamy and mellow flavor.",
+    "price": 15,
+    "size": ["Small", "Medium", "Large"],
+    "image": "https://images.unsplash.com/photo-1561882468-9110e03e0f78",
+    "available": true,
+    "rating": 4.8
+  },
+  {
+    "id": 5,
+    "name": "Mocha",
+    "category": "Hot Coffee",
+    "description": "A delicious combination of espresso, chocolate and steamed milk.",
+    "price": 17,
+    "size": ["Small", "Medium", "Large"],
+    "image": "https://images.unsplash.com/photo-1578314675249-a6910f80cc4e",
+    "available": true,
+    "rating": 4.7
+  },
+  {
+    "id": 6,
+    "name": "Spanish Latte",
+    "category": "Specialty Coffee",
+    "description": "Creamy espresso mixed with sweetened condensed milk for a rich taste.",
+    "price": 18,
+    "size": ["Small", "Medium", "Large"],
+    "image": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735",
+    "available": true,
+    "rating": 4.9
+  },
+  {
+    "id": 7,
+    "name": "Iced Americano",
+    "category": "Cold Coffee",
+    "description": "Refreshing espresso poured over ice and chilled water.",
+    "price": 12,
+    "size": ["Small", "Medium", "Large"],
+    "image": "https://images.unsplash.com/photo-1517701604599-bb29b565090c",
+    "available": true,
+    "rating": 4.6
+  },
+  {
+    "id": 8,
+    "name": "Iced Latte",
+    "category": "Cold Coffee",
+    "description": "Smooth espresso, cold milk and ice served for a refreshing coffee experience.",
+    "price": 16,
+    "size": ["Small", "Medium", "Large"],
+    "image": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735",
+    "available": true,
+    "rating": 4.8
+  },
+  {
+    "id": 9,
+    "name": "Iced Spanish Latte",
+    "category": "Cold Coffee",
+    "description": "A chilled version of our signature Spanish Latte with espresso and creamy milk.",
+    "price": 19,
+    "size": ["Small", "Medium", "Large"],
+    "image": "https://images.unsplash.com/photo-1541167760496-1628856ab772",
+    "available": true,
+    "rating": 4.9
+  },
+  {
+    "id": 10,
+    "name": "Caramel Macchiato",
+    "category": "Specialty Coffee",
+    "description": "Espresso with steamed milk, vanilla and a smooth caramel finish.",
+    "price": 20,
+    "size": ["Small", "Medium", "Large"],
+    "image": "https://images.unsplash.com/photo-1485808191679-5f86510681a2",
+    "available": true,
+    "rating": 4.7
+  },
+  {
+    "id": 11,
+    "name": "Matcha Latte",
+    "category": "Non Coffee",
+    "description": "Creamy Japanese matcha blended with fresh milk for a smooth earthy flavor.",
+    "price": 18,
+    "size": ["Small", "Medium", "Large"],
+    "image": "https://images.unsplash.com/photo-1515823064-d6e0c04616a7",
+    "available": true,
+    "rating": 4.7
+  },
+  {
+    "id": 12,
+    "name": "Hot Chocolate",
+    "category": "Non Coffee",
+    "description": "Rich chocolate blended with warm milk and topped with creamy foam.",
+    "price": 15,
+    "size": ["Small", "Medium", "Large"],
+    "image": "https://images.unsplash.com/photo-1542990253-0d0f5be5f0ed",
+    "available": true,
+    "rating": 4.6
+  },
+  {
+    "id": 13,
+    "name": "Mango Mojito",
+    "category": "Mojito",
+    "description": "Refreshing mango, mint, lime and sparkling soda served over ice.",
+    "price": 16,
+    "size": ["Medium", "Large"],
+    "image": "https://images.unsplash.com/photo-1556679343-c7306c1976bc",
+    "available": true,
+    "rating": 4.8
+  },
+  {
+    "id": 14,
+    "name": "Blue Lagoon",
+    "category": "Mojito",
+    "description": "A refreshing citrus drink with blue syrup, lime and sparkling soda.",
+    "price": 15,
+    "size": ["Medium", "Large"],
+    "image": "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd",
+    "available": true,
+    "rating": 4.6
+  },
+  {
+    "id": 15,
+    "name": "Chocolate Cake",
+    "category": "Dessert",
+    "description": "Moist chocolate cake with a rich chocolate topping.",
+    "price": 18,
+    "size": ["Slice"],
+    "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587",
+    "available": true,
+    "rating": 4.8
+  },
+  {
+    "id": 16,
+    "name": "Classic Cheesecake",
+    "category": "Dessert",
+    "description": "Creamy cheesecake with a buttery biscuit base.",
+    "price": 20,
+    "size": ["Slice"],
+    "image": "https://images.unsplash.com/photo-1565958011703-44f9829ba187",
+    "available": true,
+    "rating": 4.9
+  },
+  {
+    "id": 17,
+    "name": "Croissant",
+    "category": "Bakery",
+    "description": "Freshly baked buttery croissant with a light and flaky texture.",
+    "price": 10,
+    "size": ["Regular"],
+    "image": "https://images.unsplash.com/photo-1555507036-ab1f4038808a",
+    "available": true,
+    "rating": 4.7
+  },
+  {
+    "id": 18,
+    "name": "Chicken Sandwich",
+    "category": "Food",
+    "description": "Grilled chicken with fresh vegetables and creamy sauce in toasted bread.",
+    "price": 22,
+    "size": ["Regular"],
+    "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af",
+    "available": true,
+    "rating": 4.6
+  }
+]
